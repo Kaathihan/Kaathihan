@@ -1,11 +1,11 @@
 <h1>Hi, I'm Kaathihan Luxmachandran! <br/><a href="http://github.com/kaathihan">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kaathihan/">Tech Enthusiast</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨🏽‍💻 Information Technology Projects:</h2>
 
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
   - [Azure-SOC-HoneyNet](https://github.com/Kaathihan/Azure-SOC-HoneyNet/)
 
-<h2>💻 Software Development Projects:</h2>
+<h2>🖥️ Software Development Projects:</h2>
 
 - <b>Web Wizardry: Crafting Dynamic Web Applications</b>
   - [Web-App-Development](https://github.com/Kaathihan/Web-App-Development)
